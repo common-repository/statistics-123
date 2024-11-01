@@ -1,0 +1,16 @@
+#tools_plugin_table_left{
+    border-top: 1px solid black;
+    width:200px;
+    height: 18px;
+    float:left;
+}
+#tools_plugin_table_right{
+    border-top: 1px solid black;
+    width:200px;
+    height: 18px;
+    float:left;
+}
+#tools_plugin_table_end{
+    width:2px;
+    clear:left;
+}
